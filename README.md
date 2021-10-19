@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Rubio</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Testbot (A Facebook Instant Game)](https://testbot-app.com/)
+- 🔭 I’m currently working on Personal Projects
 
 - 🌱 I’m currently learning **Javascript technologies and backend "things"**
 
